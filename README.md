@@ -1,5 +1,4 @@
-#Translational Psychiatry
-
+# Codes PANSS 2018 Translational Psychiatry
 
 Code for reproducing the key results of our Translational Psychiatry 2018 paper on Patterns of Schizophrenia Symptoms: Hidden Structure in the PANSS Questionnaire.
 
