@@ -1,4 +1,4 @@
-# Code for reproducing the key results of Patterns of Schizophrenia Symptoms: Hidden Structure in the PANSS Questionnaire.
+# Shared paper codes of Panss2018 project
 
 Code for reproducing the key results of our 2018 paper: Patterns of Schizophrenia Symptoms: Hidden Structure in the PANSS Questionnaire.
 
